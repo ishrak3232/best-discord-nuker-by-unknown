@@ -1,0 +1,8 @@
+discord
+asyncio
+colorama
+json
+os
+random
+time
+requests
